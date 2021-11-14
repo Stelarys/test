@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+    margin: 4px;
+}
+label {
+    color: white;
+    font-variant: small-caps;
+}
+h2 {
+    
+    color:white;
+}
+h4{
+    color:white;
+}
+h6{
+    color: white;
+}
+body {
+    background-color:rgb(34, 34, 34);
+}
+#Drawingplace {
+    width: 72000px;
+    height: 48000px;  
+    background-color: rgb(70, 66, 66);
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    margin: 0;
+    
+} 
